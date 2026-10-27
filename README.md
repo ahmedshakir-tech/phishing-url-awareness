@@ -59,5 +59,5 @@ Use workbook sample strings or harmless examples only. Do not collect credential
 
 ## Author
 - Name: Ahmed Shakir
-- Batch/Course: [Fill in your assigned batch/course]
+- Batch/Course: A
 - Internship: AI-Powered Cybersecurity Internship, EWB Courses
